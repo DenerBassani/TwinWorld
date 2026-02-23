@@ -1,0 +1,1 @@
+world = 0; // muda manualmente na room
