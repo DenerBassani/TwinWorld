@@ -1,8 +1,8 @@
+global.grid = 32;
+
 global.level_list = [
-    rm_level_1,
-    rm_level_2,
-    rm_level_3
+   // rm_tutorial,
+    rm_procedural
 ];
 
-global.grid = 32;
 global.level_index = 0;

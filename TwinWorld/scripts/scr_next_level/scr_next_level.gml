@@ -8,6 +8,6 @@ function scr_next_level()
     }
     else
     {
-        show_message("Fim de jogo!");
+        room_goto(rm_procedural);
     }
 }
