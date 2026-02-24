@@ -1,7 +1,7 @@
 global.grid = 32;
 
 global.level_list = [
-   // rm_tutorial,
+	rm_tutorial,
     rm_procedural
 ];
 
